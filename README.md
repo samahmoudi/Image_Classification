@@ -195,8 +195,3 @@ You can install the required libraries using pip:
 ```bash
 pip install numpy pandas opencv-python scikit-learn
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
