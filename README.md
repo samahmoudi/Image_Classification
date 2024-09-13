@@ -169,7 +169,7 @@ print('Incorrect isolation is \n', Incorrect_isolation)
 ### Misclassified Images
 
 The following images were misclassified:
-- `s27.jpg`
+- `j19.jpg`
 - `j44.jpg`
 
 **Discussion**: The misclassifications could be due to the similarity in color features between sea and forest images. Further feature extraction methods or advanced classifiers could improve the accuracy.
